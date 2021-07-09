@@ -9,8 +9,8 @@ an ecommerce backend using express and sequelize 📝
 
 ## Table of Contents  
 ---
-- [Installation Instructions ⌨️](#installation-)
-- [Usage 🖥️](#usage-)
+- [Installation Instructions ⌨️](#installation--)
+- [Usage 🖥️](#usage--)
 - [Screenshot & Video 📸](#screenshot--video--click-on-screenshot-to-see-video)
 - [Contributors 📜](#contributors-)
 - [Contact 📠](#contact-)
