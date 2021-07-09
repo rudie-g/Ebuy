@@ -37,10 +37,9 @@ As this is strictly a backend, its usage is primarily through Postman or Insomni
 ---
 Rudie G (sole author) 📜
   
-## Screenshot 📸 
+## Screenshot & Video 📸 click on screenshot to see video
 ---
-undefined
-<img alt="" src="" width="150" height="150"> |
+[![Ebuy Demo](./assets/Ebuy-screenshot.png)](https://drive.google.com/file/d/1od2JpgtycKtBQ_VFq_8SwXlNKw1VXlJy/view?usp=sharing "Ebuy Demo")
 <br />
 <br />
 
